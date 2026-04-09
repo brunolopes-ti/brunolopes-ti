@@ -19,12 +19,14 @@ Profissional com experiência prática em Qualidade de Software (QA), atuando em
 ## Projeto em Destaque
 
 ### QA Lab Project
-Projeto prático de QA com foco em testes manuais de aplicação web, incluindo:
-- Planejamento e execução de testes
-- Criação de casos de teste
-- Documentação de bugs
-- Validação de fluxos críticos
-- Organização da documentação em Git/GitHub
+Projeto prático de QA simulando a atuação de um Analista de Qualidade em aplicação web, incluindo:
+
+- Levantamento e análise de cenários de teste
+- Elaboração de casos de teste estruturados
+- Execução manual de testes funcionais
+- Registro e documentação de bugs
+- Análise de impacto de negócio
+- Organização e versionamento da documentação em Git/GitHub
 
 🔗 [Acessar projeto](https://github.com/brunolopes-ti/qa-lab-project)
 
