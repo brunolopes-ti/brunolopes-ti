@@ -49,3 +49,4 @@ Projeto prático de QA simulando a atuação de um Analista de Qualidade em apli
 ## Contato
 
 - [LinkedIn](https://linkedin.com/in/brunolopes-ti)
+- Email: brunno.brl@gmail.com
