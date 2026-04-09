@@ -1,25 +1,49 @@
-# Bruno Ramos Lopes
+# Olá, eu sou Bruno 👋
 
-QA Júnior com experiência prática em testes manuais, criação de casos de teste e documentação de bugs, com foco em qualidade de software e impacto de negócio.
+### QA Júnior | Testes Manuais | Testes de API | SQL | Automação em evolução
 
-## Principais Competências
-- Testes Manuais
-- Criação de Casos de Teste
-- Documentação e Análise de Bugs
-- Validação de Requisitos
-- Testes de API com Postman
-- SQL para validação de dados
-- Git e GitHub
-- Scrum (PSM I)
+Profissional com experiência prática em Qualidade de Software (QA), atuando em testes manuais, criação de casos de teste e documentação de bugs com foco em impacto de negócio.
+
+---
+
+## Tecnologias e Ferramentas
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+
+---
 
 ## Projeto em Destaque
-- [QA Lab Project](https://github.com/brunolopes-ti/qa-lab-project)  
-  Projeto prático de QA com foco em testes manuais em aplicação web, incluindo planejamento e execução de cenários de teste, criação de casos de teste estruturados e documentação de bugs com análise de impacto de negócio.
+
+### QA Lab Project
+Projeto prático de QA com foco em testes manuais de aplicação web, incluindo:
+- Planejamento e execução de testes
+- Criação de casos de teste
+- Documentação de bugs
+- Validação de fluxos críticos
+- Organização da documentação em Git/GitHub
+
+🔗 [Acessar projeto](https://github.com/brunolopes-ti/qa-lab-project)
+
+---
+
+## Certificações
+
+- Professional Scrum Master I (PSM I)
+
+---
 
 ## Atualmente Estudando
+
 - Testes de API
 - SQL para QA
 - Automação com Cypress
 
+---
+
 ## Contato
-- [LinkedIn](https://www.linkedin.com/in/brunolopes-ti)
+
+- [LinkedIn](https://linkedin.com/in/brunolopes-ti)
