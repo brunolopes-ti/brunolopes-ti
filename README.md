@@ -1,4 +1,4 @@
-# Olá, eu sou Bruno 👋
+# Bruno Lopes 👋
 
 ### QA Júnior | Testes Manuais | Testes de API | SQL | Automação em evolução
 
