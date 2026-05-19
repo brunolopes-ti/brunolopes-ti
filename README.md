@@ -64,7 +64,7 @@ Principais entregas:
 - Organização de cenários de teste de API  
 - Documentação técnica dos testes executados  
 
-🔗 [Acessar projeto de API](https://github.com/brunolopes-ti/qa-api-tests)  
+🔗 [Acessar projeto](https://github.com/brunolopes-ti/qa-api-tests)  
 
 ---
 
