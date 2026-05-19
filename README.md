@@ -111,6 +111,8 @@ Principais entregas:
 ## Certificações
 
 - Professional Scrum Master I — PSM I
+- Fundamentos da Lei Geral de Proteção de Dados
+- Big Data em Apoio à Tomada de Decisão
 
 ---
 
