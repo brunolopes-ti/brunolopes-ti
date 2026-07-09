@@ -1,6 +1,6 @@
 # Bruno Ramos Lopes
 
-## QA Júnior | Testes Manuais | API Testing | SQL para QA | Automação com Cypress
+## QA Júnior | Testes Manuais | API Testing | SQL para QA | Automação com Cypress | BI | Análise de Dados 
 
 Profissional com formação em Gestão da Tecnologia da Informação, certificação Professional Scrum Master I (PSM I) e pós-graduações em andamento em Desenvolvimento e Testes de Software e Ciência de Dados.
 
