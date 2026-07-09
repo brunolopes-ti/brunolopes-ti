@@ -12,22 +12,25 @@ Meu foco é atuar com qualidade de software, contribuindo para a identificação
 
 ## Tecnologias e Ferramentas
 
-- Testes Manuais
-- Testes Funcionais
-- API Testing
-- Postman
-- SQL
-- PostgreSQL
-- DBeaver
-- Cypress
-- JavaScript
-- Node.js
-- Git
-- GitHub
-- Markdown
-- Scrum
-- BI e análise de dados
+## Tecnologias e Ferramentas
 
+<p>
+  <img src="https://img.shields.io/badge/Testes%20Manuais-Quality%20Assurance-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/API%20Testing-Postman-orange?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-Database-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/DBeaver-Database%20Tool-372923?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-Em%20evolu%C3%A7%C3%A3o-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-Pr%C3%B3ximo%20passo-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scrum-PSM%20I-6DB33F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/BI-An%C3%A1lise%20de%20Dados-purple?style=for-the-badge" />
+</p>
 ---
 
 ## Projetos em Destaque
