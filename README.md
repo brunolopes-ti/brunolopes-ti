@@ -139,7 +139,7 @@ O objetivo do projeto é demonstrar a criação de uma suíte automatizada cobri
 
 ---
 
-## Atualmente evoluindo em
+## Atualmente evoluindo em:
 
 - Selenium WebDriver;
 - Playwright;
@@ -153,11 +153,11 @@ O objetivo do projeto é demonstrar a criação de uma suíte automatizada cobri
 
 ---
 
-## Objetivo Profissional
+## Objetivo Profissional  
 
-Atuar como QA Júnior, Analista de Testes Júnior ou em posição correlata na área de Tecnologia, aplicando habilidades em análise, atenção aos detalhes, documentação, validação de dados, investigação de falhas e automação de testes.
+Atuar na área de Tecnologia com foco em Quality Assurance, Análise de Dados, BI e melhoria de processos, aplicando conhecimentos em testes de software, SQL, validação de dados, documentação, investigação de inconsistências e automação.
 
-Meu foco é evoluir continuamente em Quality Assurance, consolidando conhecimentos em testes manuais, API Testing, SQL para QA e automação de testes.
+Busco evoluir de forma contínua em qualidade de software e análise de dados, contribuindo para entregas mais confiáveis, rastreáveis e orientadas por informações.
 
 ---
 
