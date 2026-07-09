@@ -12,29 +12,25 @@ Meu foco é atuar com qualidade de software, contribuindo para a identificação
 
 ## Tecnologias e Ferramentas
 
-<p>
-  <img src="https://img.shields.io/badge/Postman-30363D?style=for-the-badge&logo=postman&logoColor=FF6C37" />
-  <img src="https://img.shields.io/badge/PostgreSQL-30363D?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
-  <img src="https://img.shields.io/badge/DBeaver-30363D?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Cypress-30363D?style=for-the-badge&logo=cypress&logoColor=white" />
-  <img src="https://img.shields.io/badge/Selenium-30363D?style=for-the-badge&logo=selenium&logoColor=43B02A" />
-  <img src="https://img.shields.io/badge/Playwright-30363D?style=for-the-badge" />
-</p>
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![API Testing](https://img.shields.io/badge/API%20Testing-02569B?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-30363D?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/Node.js-30363D?style=for-the-badge&logo=nodedotjs&logoColor=339933" />
-  <img src="https://img.shields.io/badge/Git-30363D?style=for-the-badge&logo=git&logoColor=F05032" />
-  <img src="https://img.shields.io/badge/GitHub-30363D?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Markdown-30363D?style=for-the-badge&logo=markdown&logoColor=white" />
-</p>
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=for-the-badge)
+![Data Validation](https://img.shields.io/badge/Data%20Validation-4B8BBE?style=for-the-badge)
 
-<p>
-  <img src="https://img.shields.io/badge/Scrum-30363D?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PSM%20I-30363D?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/BI-30363D?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/An%C3%A1lise%20de%20Dados-30363D?style=for-the-badge" />
-</p>
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
