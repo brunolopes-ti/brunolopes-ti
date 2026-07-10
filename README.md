@@ -1,12 +1,14 @@
 # Bruno Ramos Lopes
 
-## QA Júnior | Testes Manuais | API Testing | SQL para QA | Cypress | Selenium | BI
+## QA Júnior | Testes Manuais | API Testing | SQL para QA | Cypress | Selenium | Playwright | BI
 
-Profissional de Tecnologia com formação em Gestão da Tecnologia da Informação, certificação Professional Scrum Master I (PSM I) e pós-graduações em andamento em Desenvolvimento e Testes de Software e Ciência de Dados.
+Profissional com formação em Gestão da Tecnologia da Informação, certificação Professional Scrum Master I (PSM I) e pós-graduações em andamento em Desenvolvimento e Testes de Software e Ciência de Dados.
 
-Tenho prática documentada em projetos públicos no GitHub envolvendo Quality Assurance, testes manuais, testes de API, validação de dados com SQL, PostgreSQL e DBeaver, documentação de evidências e automação com Cypress e Selenium.
+Tenho perfil analítico, atenção aos detalhes e experiência prática documentada em projetos de tecnologia, qualidade de software, validação de dados, documentação técnica, automação de testes e melhoria de processos.
 
-Atualmente venho ampliando minha atuação em análise de dados e BI, com foco em organização de informações, validação de consistência, regras de negócio, processos e apoio à tomada de decisão baseada em dados.
+Nos meus projetos públicos no GitHub, desenvolvo práticas aplicadas envolvendo testes manuais web, testes de API, SQL, PostgreSQL, automação com Cypress, Selenium WebDriver e Playwright, organização de evidências e versionamento com Git e GitHub.
+
+Meu foco é atuar com qualidade de software, contribuindo para a identificação de falhas, validação de regras de negócio, melhoria da rastreabilidade dos testes e apoio à entrega de sistemas mais confiáveis.
 
 ---
 
@@ -87,24 +89,24 @@ O projeto simula um banco de dados de e-commerce utilizando PostgreSQL e DBeaver
 
 Projeto prático de automação de testes end-to-end com Cypress utilizando o site SauceDemo.
 
-O objetivo do projeto é demonstrar a criação de uma suíte automatizada cobrindo fluxos reais de uma aplicação web, com validações de login, carrinho, checkout, evidências visuais e execução completa via terminal.
+A suíte automatizada cobre fluxos de login, carrinho e checkout, com validações funcionais, organização por arquivos de teste, evidências visuais e execução completa via terminal.
 
 **Principais entregas:**
 
-- Criação de testes automatizados E2E com Cypress;
 - Automação de login válido;
 - Automação de login inválido;
 - Automação de login com usuário bloqueado;
 - Automação de adição de produto ao carrinho;
-- Validação de produto, preço e botão de checkout no carrinho;
+- Validação de produto na página do carrinho;
 - Automação de checkout completo;
+- Uso de Cypress com JavaScript;
 - Organização dos testes por fluxo funcional;
-- Uso de seletores estáveis com `data-test`;
-- Geração e organização de evidências;
+- Geração de evidências com screenshots;
 - Execução da suíte completa em modo headless;
-- Documentação técnica no README do projeto.
+- Documentação técnica no README;
+- Versionamento com Git e GitHub.
 
-[Acessar projeto](https://github.com/brunolopes-ti/qa-cypress-lab) 
+[Acessar projeto](https://github.com/brunolopes-ti/qa-cypress-lab)
 
 ---
 
@@ -112,25 +114,50 @@ O objetivo do projeto é demonstrar a criação de uma suíte automatizada cobri
 
 Projeto prático de automação de testes end-to-end com Selenium WebDriver e JavaScript utilizando o site SauceDemo.
 
-O objetivo do projeto é demonstrar a criação de uma suíte automatizada cobrindo fluxos reais de uma aplicação web, com validações de login, carrinho, checkout, evidências visuais e execução completa via terminal.
+A suíte automatizada cobre cenários de login, carrinho e checkout, com validações de URL, textos, elementos visíveis, fluxo de navegação e geração de evidências.
 
 **Principais entregas:**
 
-- Criação de testes automatizados E2E com Selenium WebDriver;
 - Automação de login válido;
 - Automação de login inválido;
 - Automação de login com usuário bloqueado;
 - Automação de adição de produto ao carrinho;
-- Validação de produto, preço e botão de checkout no carrinho;
+- Validação de produto na página do carrinho;
 - Automação de checkout completo;
-- Organização dos testes por fluxo funcional;
-- Uso de seletores estáveis com `data-test`;
-- Uso de JavaScript, Node.js e Mocha;
-- Geração e organização de evidências;
+- Uso de Selenium WebDriver com JavaScript;
+- Organização dos testes com Mocha;
+- Geração de screenshots como evidências;
 - Execução da suíte completa via terminal;
-- Documentação técnica no README do projeto.
+- Documentação técnica no README;
+- Versionamento com Git e GitHub.
 
 [Acessar projeto](https://github.com/brunolopes-ti/qa-selenium-lab)
+
+---
+
+### QA Playwright Lab
+
+Projeto prático de automação de testes end-to-end com Playwright e JavaScript utilizando o site SauceDemo.
+
+A suíte automatizada cobre cenários de login, carrinho e checkout, com validações de URL, textos, elementos visíveis, fluxo de navegação, screenshots e execução completa via terminal.
+
+**Principais entregas:**
+
+- Automação de login válido;
+- Automação de login inválido;
+- Automação de login com usuário bloqueado;
+- Automação de adição de produto ao carrinho;
+- Validação de produto na página do carrinho;
+- Automação de checkout completo;
+- Uso de Playwright com JavaScript;
+- Uso de Playwright Test Runner;
+- Organização dos testes por fluxo funcional;
+- Geração de evidências com screenshots;
+- Execução da suíte completa via terminal;
+- Documentação técnica no README;
+- Versionamento com Git e GitHub.
+
+[Acessar projeto](https://github.com/brunolopes-ti/qa-playwright-lab)
 
 ---
 
@@ -148,10 +175,12 @@ O objetivo do projeto é demonstrar a criação de uma suíte automatizada cobri
 - Consultas em banco relacional;
 - Automação de testes E2E com Cypress;
 - Automação de testes E2E com Selenium WebDriver;
+- Automação de testes E2E com Playwright;
 - Organização de evidências de teste;
 - Documentação técnica;
 - Git e GitHub para versionamento;
-- Conhecimento em Scrum.
+- Conhecimento em Scrum;
+- Noções de BI e análise de dados.
 
 ---
 
@@ -168,22 +197,22 @@ O objetivo do projeto é demonstrar a criação de uma suíte automatizada cobri
 
 ## Atualmente evoluindo em:
 
-- Playwright;
 - Automação de testes end-to-end;
-- Desenvolvimento e testes de software;
+- Boas práticas em Cypress, Selenium WebDriver e Playwright;
+- Page Object Model;
 - SQL aplicado a cenários reais de QA;
-- Ciência de dados aplicada à análise e validação de informações;
+- Ciência de Dados aplicada à análise e validação de informações;
 - BI e análise de dados para apoio à tomada de decisão;
 - Validação de dados entre sistema, API, banco e relatórios;
 - Boas práticas de documentação de testes.
 
 ---
 
-## Objetivo Profissional  
+## Objetivo Profissional
 
-Atuar na área de Tecnologia com foco em Quality Assurance, Análise de Dados, BI e melhoria de processos, aplicando conhecimentos em testes de software, SQL, validação de dados, documentação, investigação de inconsistências e automação.
+Atuar em posições de entrada na área de Tecnologia, especialmente como QA Júnior, Analista de Testes Júnior ou em funções correlatas que envolvam análise, validação, documentação, processos, dados e qualidade de sistemas.
 
-Busco evoluir de forma contínua em qualidade de software e análise de dados, contribuindo para entregas mais confiáveis, rastreáveis e orientadas por informações.
+Meu foco é evoluir continuamente em tecnologia, consolidando conhecimentos em qualidade de software, automação de testes, análise de dados e melhoria de processos.
 
 ---
 
