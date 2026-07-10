@@ -1,10 +1,10 @@
 # Bruno Ramos Lopes
 
-## QA Júnior | Testes Manuais | API Testing | SQL para QA | Automação com Cypress | BI | Análise de Dados 
+## QA Júnior | Testes Manuais | API Testing | SQL para QA | Cypress | Selenium | BI
 
 Profissional de Tecnologia com formação em Gestão da Tecnologia da Informação, certificação Professional Scrum Master I (PSM I) e pós-graduações em andamento em Desenvolvimento e Testes de Software e Ciência de Dados.
 
-Tenho prática documentada em projetos públicos no GitHub envolvendo Quality Assurance, testes manuais, testes de API, validação de dados com SQL, PostgreSQL e DBeaver, documentação de evidências e automação com Cypress.
+Tenho prática documentada em projetos públicos no GitHub envolvendo Quality Assurance, testes manuais, testes de API, validação de dados com SQL, PostgreSQL e DBeaver, documentação de evidências e automação com Cypress e Selenium.
 
 Atualmente venho ampliando minha atuação em análise de dados e BI, com foco em organização de informações, validação de consistência, regras de negócio, processos e apoio à tomada de decisão baseada em dados.
 
@@ -104,7 +104,33 @@ O objetivo do projeto é demonstrar a criação de uma suíte automatizada cobri
 - Execução da suíte completa em modo headless;
 - Documentação técnica no README do projeto.
 
-[Acessar projeto](https://github.com/brunolopes-ti/qa-cypress-lab)
+[Acessar projeto](https://github.com/brunolopes-ti/qa-cypress-lab) 
+
+---
+
+### QA Selenium Lab
+
+Projeto prático de automação de testes end-to-end com Selenium WebDriver e JavaScript utilizando o site SauceDemo.
+
+O objetivo do projeto é demonstrar a criação de uma suíte automatizada cobrindo fluxos reais de uma aplicação web, com validações de login, carrinho, checkout, evidências visuais e execução completa via terminal.
+
+**Principais entregas:**
+
+- Criação de testes automatizados E2E com Selenium WebDriver;
+- Automação de login válido;
+- Automação de login inválido;
+- Automação de login com usuário bloqueado;
+- Automação de adição de produto ao carrinho;
+- Validação de produto, preço e botão de checkout no carrinho;
+- Automação de checkout completo;
+- Organização dos testes por fluxo funcional;
+- Uso de seletores estáveis com `data-test`;
+- Uso de JavaScript, Node.js e Mocha;
+- Geração e organização de evidências;
+- Execução da suíte completa via terminal;
+- Documentação técnica no README do projeto.
+
+[Acessar projeto](https://github.com/brunolopes-ti/qa-selenium-lab)
 
 ---
 
@@ -121,6 +147,7 @@ O objetivo do projeto é demonstrar a criação de uma suíte automatizada cobri
 - Análise de regras de negócio;
 - Consultas em banco relacional;
 - Automação de testes E2E com Cypress;
+- Automação de testes E2E com Selenium WebDriver;
 - Organização de evidências de teste;
 - Documentação técnica;
 - Git e GitHub para versionamento;
@@ -141,7 +168,6 @@ O objetivo do projeto é demonstrar a criação de uma suíte automatizada cobri
 
 ## Atualmente evoluindo em:
 
-- Selenium WebDriver;
 - Playwright;
 - Automação de testes end-to-end;
 - Desenvolvimento e testes de software;
