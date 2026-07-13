@@ -1,12 +1,12 @@
 # Bruno Ramos Lopes
 
-## QA Júnior | Testes Manuais | API Testing | SQL para QA | Cypress | Selenium | Playwright
+## QA Júnior | Testes Manuais | API Testing | SQL para QA | BI | Cypress | Selenium | Playwright
 
 Profissional com formação em Gestão da Tecnologia da Informação, certificação Professional Scrum Master I (PSM I) e pós-graduações em andamento em Desenvolvimento e Testes de Software e Ciência de Dados.
 
-Tenho foco em Quality Assurance, testes manuais, testes de API, validação de dados com SQL e automação de testes end-to-end com Cypress, Selenium WebDriver e Playwright.
+Tenho foco em Quality Assurance, testes manuais, testes de API, validação de dados com SQL, BI, análise de dados e automação de testes end-to-end com Cypress, Selenium WebDriver e Playwright.
 
-Este GitHub reúne projetos práticos desenvolvidos para demonstrar minha evolução em QA, com documentação técnica, evidências, versionamento e boas práticas aplicadas.
+Este GitHub reúne projetos práticos desenvolvidos para demonstrar minha evolução em QA, com documentação técnica, evidências, versionamento, validação de dados e boas práticas aplicadas.
 
 ---
 
@@ -17,6 +17,10 @@ Este GitHub reúne projetos práticos desenvolvidos para demonstrar minha evolu�
 ![Postman](https://img.shields.io/badge/Postman-API%20Testing-orange)
 ![SQL](https://img.shields.io/badge/SQL-Data%20Validation-blue)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue)
+![DBeaver](https://img.shields.io/badge/DBeaver-Database%20Tool-brown)
+![BI](https://img.shields.io/badge/BI-Business%20Intelligence-purple)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Data%20Validation-blue)
+![Data Validation](https://img.shields.io/badge/Data%20Validation-Quality%20Checks-informational)
 ![Cypress](https://img.shields.io/badge/Cypress-E2E%20Testing-brightgreen)
 ![Selenium](https://img.shields.io/badge/Selenium-WebDriver-green)
 ![Playwright](https://img.shields.io/badge/Playwright-E2E%20Testing-green)
@@ -83,6 +87,7 @@ Projeto prático de validação de dados utilizando PostgreSQL, DBeaver e SQL.
 - Consultas SQL;
 - Validação de pedidos, produtos, estoque e usuários;
 - Verificação de inconsistências;
+- Validação de regras de negócio;
 - Documentação de evidências.
 
 Repositório:  
@@ -168,6 +173,9 @@ Repositório:
 - Validação de status code, payload JSON, headers e respostas de API;
 - SQL para QA e validação de dados;
 - PostgreSQL e DBeaver;
+- Análise de dados e validação de informações;
+- Noções de BI e apoio à tomada de decisão;
+- Verificação de consistência entre registros, sistemas e regras de negócio;
 - Automação de testes E2E com Cypress;
 - Automação de testes E2E com Selenium WebDriver;
 - Automação de testes E2E com Playwright;
@@ -188,6 +196,7 @@ Repositório:
 - Pós-graduação em Ciência de Dados — em andamento;
 - Professional Scrum Master I — Scrum.org;
 - Testes de Software na Prática: Qualidade, Técnicas e Ferramentas;
+- Análise de Dados e Inteligência de Negócios — em andamento;
 - Big Data em Apoio à Tomada de Decisão;
 - Fundamentos da LGPD.
 
@@ -195,9 +204,11 @@ Repositório:
 
 ## Objetivo profissional
 
-Atuar como QA Júnior, Analista de Testes Júnior ou em posição correlata na área de Tecnologia, aplicando conhecimentos em testes manuais, testes de API, SQL, automação de testes, documentação, análise de falhas e melhoria contínua.
+Atuar como QA Júnior, Analista de Testes Júnior ou em posição correlata na área de Tecnologia, aplicando conhecimentos em testes manuais, testes de API, SQL, automação de testes, documentação, análise de falhas, validação de dados e melhoria contínua.
 
-Meu foco é evoluir continuamente em Quality Assurance, consolidando conhecimentos em qualidade de software, automação, validação de dados e boas práticas utilizadas em projetos reais.
+Também tenho interesse em oportunidades que envolvam análise de dados, BI, validação de informações, processos e qualidade de dados.
+
+Meu foco é evoluir continuamente em Quality Assurance, consolidando conhecimentos em qualidade de software, automação, validação de dados, análise de informações e boas práticas utilizadas em projetos reais.
 
 ---
 
