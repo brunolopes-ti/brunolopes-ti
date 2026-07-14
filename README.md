@@ -1,12 +1,12 @@
 # Bruno Ramos Lopes
 
-## QA Júnior | Testes Manuais | API Testing | SQL para QA | BI | Cypress | Selenium | Playwright
+## QA Júnior | Testes Manuais | API Testing | SQL para QA | Cypress | Selenium | Playwright
 
 Profissional com formação em Gestão da Tecnologia da Informação, certificação Professional Scrum Master I (PSM I) e pós-graduações em andamento em Desenvolvimento e Testes de Software e Ciência de Dados.
 
-Tenho foco em Quality Assurance, testes manuais, testes de API, validação de dados com SQL, BI, análise de dados e automação de testes end-to-end com Cypress, Selenium WebDriver e Playwright.
+Tenho foco em Quality Assurance, testes manuais, testes de API, validação de dados com SQL e automação de testes end-to-end com Cypress, Selenium WebDriver e Playwright.
 
-Este GitHub reúne projetos práticos desenvolvidos para demonstrar minha evolução em QA, com documentação técnica, evidências, versionamento, validação de dados e boas práticas aplicadas.
+Este GitHub reúne projetos práticos desenvolvidos para demonstrar minha evolução em QA, com documentação técnica, evidências, versionamento, automação, execução via terminal e pipelines automatizados com GitHub Actions.
 
 ---
 
@@ -15,21 +15,36 @@ Este GitHub reúne projetos práticos desenvolvidos para demonstrar minha evolu�
 ![QA](https://img.shields.io/badge/QA-Quality%20Assurance-blue)
 ![Software Testing](https://img.shields.io/badge/Software%20Testing-Manual%20%26%20Automation-green)
 ![Postman](https://img.shields.io/badge/Postman-API%20Testing-orange)
+![Newman](https://img.shields.io/badge/Newman-API%20Automation-orange)
 ![SQL](https://img.shields.io/badge/SQL-Data%20Validation-blue)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue)
-![DBeaver](https://img.shields.io/badge/DBeaver-Database%20Tool-brown)
-![BI](https://img.shields.io/badge/BI-Business%20Intelligence-purple)
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Data%20Validation-blue)
-![Data Validation](https://img.shields.io/badge/Data%20Validation-Quality%20Checks-informational)
 ![Cypress](https://img.shields.io/badge/Cypress-E2E%20Testing-brightgreen)
 ![Selenium](https://img.shields.io/badge/Selenium-WebDriver-green)
 ![Playwright](https://img.shields.io/badge/Playwright-E2E%20Testing-green)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Automation-yellow)
 ![Node.js](https://img.shields.io/badge/Node.js-Runtime-green)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI/CD-blue)
 ![Git](https://img.shields.io/badge/Git-Version%20Control-orange)
 ![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI/CD-blue)
 ![Scrum](https://img.shields.io/badge/Scrum-PSM%20I-blueviolet)
+
+---
+
+## Finalidade deste portfólio
+
+Este GitHub tem como finalidade demonstrar, de forma prática, minha preparação para atuar na área de Quality Assurance.
+
+Os projetos foram desenvolvidos para mostrar conhecimentos aplicados em:
+
+- Testes manuais funcionais;
+- Testes de API REST;
+- Validação de dados com SQL;
+- Automação de testes web;
+- Execução de testes via terminal;
+- Organização de evidências;
+- Documentação técnica;
+- Versionamento com Git e GitHub;
+- Pipelines automatizados com GitHub Actions.
 
 ---
 
@@ -47,30 +62,34 @@ Projeto prático de testes manuais funcionais utilizando o site SauceDemo.
 - Execução de testes funcionais;
 - Validação de login, carrinho e checkout;
 - Registro de evidências;
-- Documentação dos resultados.
+- Documentação dos resultados;
+- Organização de casos de teste.
 
 Repositório:  
 [qa-lab-project](https://github.com/brunolopes-ti/qa-lab-project)
 
 ---
 
-### API Tests - Testes de API com Postman
+### QA API Tests - Testes de API com Postman, Newman e GitHub Actions
 
-Projeto prático de testes de API REST utilizando Postman e JSONPlaceholder.
+Projeto prático de testes de API REST utilizando Postman, Newman, JavaScript e JSONPlaceholder.
 
-**Objetivo:** demonstrar validação de endpoints, métodos HTTP, status code, payloads JSON e respostas de API.
+**Objetivo:** demonstrar validação de endpoints, métodos HTTP, status code, payload JSON, scripts de teste, execução via terminal e pipeline automatizado com GitHub Actions.
 
 **Principais práticas:**
 
-- Testes com métodos GET, POST, PUT, PATCH e DELETE;
+- Testes com métodos GET, POST, PATCH e DELETE;
 - Validação de status code;
 - Validação de payload JSON;
 - Uso de variáveis no Postman;
-- Scripts básicos de teste;
-- Organização de collection.
+- Scripts JavaScript para validações;
+- Execução da collection via terminal com Newman;
+- Criação de script `npm run api`;
+- Execução automatizada com GitHub Actions;
+- Evidências e documentação técnica.
 
 Repositório:  
-[api-tests](https://github.com/brunolopes-ti/api-tests)
+[qa-api-tests](https://github.com/brunolopes-ti/qa-api-tests)
 
 ---
 
@@ -139,7 +158,7 @@ Repositório:
 
 ---
 
-### QA Playwright Lab - Automação E2E com Playwright
+### QA Playwright Lab - Automação E2E com Playwright, Page Object Model e GitHub Actions
 
 Projeto prático de automação de testes end-to-end com Playwright e JavaScript utilizando o SauceDemo.
 
@@ -153,7 +172,8 @@ Projeto prático de automação de testes end-to-end com Playwright e JavaScript
 - Adição de produto ao carrinho;
 - Validação do carrinho;
 - Checkout completo;
-- Organização com Page Object Model;
+- Organização dos testes com Page Object Model;
+- Separação entre lógica de página e cenários de teste;
 - Execução automatizada com GitHub Actions;
 - Pipeline de testes em CI;
 - Evidências e README técnico completo.
@@ -170,12 +190,10 @@ Repositório:
 - Registro e análise de bugs;
 - Validação de requisitos, regras de negócio e critérios de aceite;
 - Testes de API REST com Postman;
+- Execução de testes de API com Newman;
 - Validação de status code, payload JSON, headers e respostas de API;
 - SQL para QA e validação de dados;
 - PostgreSQL e DBeaver;
-- Análise de dados e validação de informações;
-- Noções de BI e apoio à tomada de decisão;
-- Verificação de consistência entre registros, sistemas e regras de negócio;
 - Automação de testes E2E com Cypress;
 - Automação de testes E2E com Selenium WebDriver;
 - Automação de testes E2E com Playwright;
@@ -185,6 +203,7 @@ Repositório:
 - GitHub Actions e noções de CI/CD;
 - Git, GitHub, Markdown e VS Code;
 - Documentação técnica, evidências e rastreabilidade;
+- Organização de projetos em repositórios públicos;
 - Scrum e metodologias ágeis.
 
 ---
@@ -196,7 +215,6 @@ Repositório:
 - Pós-graduação em Ciência de Dados — em andamento;
 - Professional Scrum Master I — Scrum.org;
 - Testes de Software na Prática: Qualidade, Técnicas e Ferramentas;
-- Análise de Dados e Inteligência de Negócios — em andamento;
 - Big Data em Apoio à Tomada de Decisão;
 - Fundamentos da LGPD.
 
@@ -204,11 +222,9 @@ Repositório:
 
 ## Objetivo profissional
 
-Atuar como QA Júnior, Analista de Testes Júnior ou em posição correlata na área de Tecnologia, aplicando conhecimentos em testes manuais, testes de API, SQL, automação de testes, documentação, análise de falhas, validação de dados e melhoria contínua.
+Atuar como QA Júnior, Analista de Testes Júnior ou em posição correlata na área de Tecnologia, aplicando conhecimentos em testes manuais, testes de API, SQL, automação de testes, documentação, análise de falhas e melhoria contínua.
 
-Também tenho interesse em oportunidades que envolvam análise de dados, BI, validação de informações, processos e qualidade de dados.
-
-Meu foco é evoluir continuamente em Quality Assurance, consolidando conhecimentos em qualidade de software, automação, validação de dados, análise de informações e boas práticas utilizadas em projetos reais.
+Meu foco é evoluir continuamente em Quality Assurance, consolidando conhecimentos em qualidade de software, automação, validação de dados, documentação técnica e boas práticas utilizadas em projetos reais.
 
 ---
 
