@@ -16,7 +16,7 @@ Este GitHub reúne projetos práticos desenvolvidos para demonstrar minha evolu�
 ![Software Testing](https://img.shields.io/badge/Software%20Testing-Manual%20%26%20Automation-green)
 ![BDD](https://img.shields.io/badge/BDD-Behavior%20Driven%20Development-blueviolet)
 ![Gherkin](https://img.shields.io/badge/Gherkin-Feature%20Files-brightgreen)
-![Cucumber](https://img.shields.io/badge/Cucumber-BDD-green)
+![Cucumber](https://img.shields.io/badge/Cucumber-Test%20Framework-green)
 ![Postman](https://img.shields.io/badge/Postman-API%20Testing-orange)
 ![Newman](https://img.shields.io/badge/Newman-API%20Automation-orange)
 ![SQL](https://img.shields.io/badge/SQL-Data%20Validation-blue)
