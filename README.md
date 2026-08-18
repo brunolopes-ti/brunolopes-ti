@@ -63,24 +63,62 @@ Os projetos demonstram conhecimentos aplicados em:
 
 ### QA Lab Project - Testes Manuais Web
 
-Projeto prático de testes manuais funcionais no SauceDemo, com planejamento, execução e documentação de casos de teste, cenários positivos e negativos, registro de evidências e validação de login, carrinho e checkout.
+Projeto de testes manuais funcionais no SauceDemo, cobrindo fluxos de login, carrinho e checkout.
 
+**Principais práticas:**
+
+- Planejamento de cenários de teste;
+- Criação e execução de casos de teste;
+- Testes funcionais;
+- Cenários positivos e negativos;
+- Validação de login, carrinho e checkout;
+- Registro de evidências;
+- Documentação dos resultados.
+
+Repositório:  
 [qa-lab-project](https://github.com/brunolopes-ti/qa-lab-project)
 
 ---
 
 ### QA API Tests - Postman, Newman e GitHub Actions
 
-Projeto de testes de API REST com Postman, Newman, JavaScript e JSONPlaceholder, incluindo métodos GET, POST, PUT, PATCH e DELETE, validação de status codes, payloads, variáveis, scripts e execução em pipeline com GitHub Actions.
+Projeto de testes de API REST com Postman, Newman, JavaScript e JSONPlaceholder, cobrindo diferentes métodos HTTP e validações automatizadas.
 
+**Principais práticas:**
+
+- Testes com métodos GET, POST, PUT, PATCH e DELETE;
+- Validação de status codes;
+- Validação de payload JSON;
+- Validação de headers e respostas da API;
+- Uso de variáveis no Postman;
+- Scripts JavaScript para validações;
+- Execução de collections via Newman;
+- Execução via terminal com npm;
+- Pipeline automatizado com GitHub Actions;
+- Evidências e documentação técnica.
+
+Repositório:  
 [qa-api-tests](https://github.com/brunolopes-ti/qa-api-tests)
 
 ---
 
 ### QA SQL Validation - PostgreSQL e DBeaver
 
-Projeto de validação de dados com SQL, PostgreSQL e DBeaver, utilizando consultas, JOINs, regras de negócio, consistência entre tabelas e evidências.
+Projeto de validação de dados com SQL, PostgreSQL e DBeaver, cobrindo regras de negócio, consistência e integridade das informações.
 
+**Principais práticas:**
+
+- Criação de tabelas relacionais;
+- Inserção de massa de dados;
+- Consultas SQL;
+- Utilização de JOINs;
+- Validação de pedidos, produtos, estoque e usuários;
+- Verificação de inconsistências;
+- Validação de regras de negócio;
+- Consistência entre tabelas;
+- Evidências e documentação das validações.
+
+Repositório:  
 [qa-sql-validation](https://github.com/brunolopes-ti/qa-sql-validation)
 
 ---
@@ -99,40 +137,100 @@ Projeto de automação E2E com Cypress e JavaScript no SauceDemo, cobrindo login
 - **13 testes executados com sucesso, incluindo 6 cenários BDD**;
 - Evidências e documentação técnica.
 
+Repositório:  
 [qa-cypress-lab](https://github.com/brunolopes-ti/qa-cypress-lab)
 
 ---
 
-### QA Playwright Lab - Playwright, POM e GitHub Actions
+### QA Playwright Lab - Playwright, Page Object Model e GitHub Actions
 
-Automação E2E com Playwright e JavaScript, utilizando Page Object Model, separação entre lógica de página e cenários de teste, evidências e pipeline com GitHub Actions.
+Projeto de automação E2E com Playwright e JavaScript no SauceDemo, cobrindo fluxos de login, carrinho e checkout.
 
+**Principais práticas:**
+
+- Automação de cenários positivos e negativos;
+- Validação de login, carrinho e checkout;
+- Page Object Model;
+- Separação entre lógica de página e cenários de teste;
+- Organização da suíte automatizada;
+- Execução via terminal;
+- GitHub Actions;
+- Pipeline automatizado em CI;
+- Evidências e documentação técnica.
+
+Repositório:  
 [qa-playwright-lab](https://github.com/brunolopes-ti/qa-playwright-lab)
 
 ---
 
 ### QA Selenium Lab - Selenium WebDriver
 
-Automação E2E com Selenium WebDriver, JavaScript, Node.js e Mocha, cobrindo fluxos de login, carrinho e checkout.
+Projeto de automação E2E com Selenium WebDriver, JavaScript, Node.js e Mocha no SauceDemo, cobrindo login, carrinho e checkout.
 
+**Principais práticas:**
+
+- Automação de login válido;
+- Automação de login inválido;
+- Automação de usuário bloqueado;
+- Adição de produto ao carrinho;
+- Validação do carrinho;
+- Automação do fluxo de checkout;
+- Selenium WebDriver com JavaScript;
+- Execução de testes com Mocha;
+- Execução via terminal;
+- Evidências e documentação técnica.
+
+Repositório:  
 [qa-selenium-lab](https://github.com/brunolopes-ti/qa-selenium-lab)
 
 ---
 
 ### QA Mobile Appium Lab - Appium e WebdriverIO
 
-Automação Mobile Android com Appium, WebdriverIO e JavaScript em dispositivo real, utilizando UiAutomator2, ADB, Page Object Model, screenshots e documentação técnica.
+Projeto de automação Mobile Android com Appium, WebdriverIO e JavaScript, executado em dispositivo Android real.
 
+**Principais práticas:**
+
+- Configuração do ambiente com Appium;
+- Execução em dispositivo Android real;
+- Uso do driver UiAutomator2;
+- Utilização de ADB;
+- Automação com WebdriverIO e JavaScript;
+- Validação da abertura do aplicativo;
+- Validação de carregamento de tela;
+- Automação de rolagem Mobile;
+- Page Object Model;
+- Captura de evidências em screenshots;
+- Documentação técnica;
+- Versionamento com Git e GitHub.
+
+Repositório:  
 [qa-mobile-appium-lab](https://github.com/brunolopes-ti/qa-mobile-appium-lab)
 
 ---
 
 ## Projeto complementar
 
-### BI Operational Dashboard
+### BI Operational Dashboard - Excel e Power BI
 
-Projeto com Excel e Power BI para análise de indicadores operacionais. Permanece disponível como projeto complementar, sem ser o foco principal deste portfólio de QA.
+Projeto de Business Intelligence para análise operacional de demandas, contratos, fornecedores, pagamentos, SLA e indicadores.
 
+**Principais práticas:**
+
+- Organização e tratamento de dados;
+- Bases simuladas em CSV;
+- Dashboard em Excel;
+- Dashboard executivo em Power BI;
+- Power Query para tratamento de dados;
+- Relacionamento entre tabelas;
+- Medidas DAX;
+- KPIs e indicadores operacionais;
+- Análise e geração de insights;
+- Dicionário de dados;
+- Evidências visuais;
+- Documentação técnica.
+
+Repositório:  
 [bi-operational-dashboard](https://github.com/brunolopes-ti/bi-operational-dashboard)
 
 ---
