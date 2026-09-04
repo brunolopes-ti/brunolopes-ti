@@ -12,33 +12,42 @@ Este GitHub reúne projetos práticos desenvolvidos para demonstrar conhecimento
 
 ## Tecnologias e ferramentas
 
-![QA](https://img.shields.io/badge/QA-Quality%20Assurance-555555?labelColor=0078D4)
-![Software Testing](https://img.shields.io/badge/Software%20Testing-Manual%20%26%20Automation-555555?labelColor=2E8B57)
-![Qase](https://img.shields.io/badge/Qase-Test%20Management-555555?labelColor=4F46E5)
-![BDD](https://img.shields.io/badge/BDD-Behavior%20Driven%20Development-555555?labelColor=6F42C1)
-![Gherkin](https://img.shields.io/badge/Gherkin-Feature%20Files-555555?labelColor=23D96C)
-![Cucumber](https://img.shields.io/badge/Cucumber-Test%20Framework-555555?labelColor=23D96C)
-![Postman](https://img.shields.io/badge/Postman-API%20Testing-555555?labelColor=FF6C37)
-![Newman](https://img.shields.io/badge/Newman-API%20Automation-555555?labelColor=FF6C37)
-![k6](https://img.shields.io/badge/k6-Performance%20Testing-555555?labelColor=7D64FF)
-![SQL](https://img.shields.io/badge/SQL-Data%20Validation-555555?labelColor=336791)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-555555?labelColor=336791)
-![DBeaver](https://img.shields.io/badge/DBeaver-Database%20Tool-555555?labelColor=897263)
-![Cypress](https://img.shields.io/badge/Cypress-E2E%20Testing-555555?labelColor=2EAD73)
-![Playwright](https://img.shields.io/badge/Playwright-E2E%20Testing-555555?labelColor=45BA4B)
-![Selenium](https://img.shields.io/badge/Selenium-WebDriver-555555?labelColor=43B02A)
-![Appium](https://img.shields.io/badge/Appium-Mobile%20Testing-555555?labelColor=662D91)
-![WebdriverIO](https://img.shields.io/badge/WebdriverIO-Test%20Automation-555555?labelColor=EA5906)
-![Android](https://img.shields.io/badge/Android-Mobile%20Automation-555555?labelColor=3DDC84)
-![JavaScript](https://img.shields.io/badge/JavaScript-Automation-555555?labelColor=F7DF1E)
-![Node.js](https://img.shields.io/badge/Node.js-Runtime-555555?labelColor=339933)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-555555?labelColor=2088FF)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-CI%2FCD-555555?labelColor=0078D4)
-![Azure Pipelines](https://img.shields.io/badge/Azure%20Pipelines-Automation-555555?labelColor=2560E0)
-![Azure Boards](https://img.shields.io/badge/Azure%20Boards-Work%20Management-555555?labelColor=0078D4)
-![Git](https://img.shields.io/badge/Git-Version%20Control-555555?labelColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-Portfolio-555555?labelColor=181717)
-![Scrum](https://img.shields.io/badge/Scrum-PSM%20I-555555?labelColor=6F42C1)
+## Tecnologias e ferramentas
+
+### Testes, gestão e BDD
+
+![Qase](https://img.shields.io/badge/Qase-4F46E5?style=flat&logoColor=white)
+![BDD](https://img.shields.io/badge/BDD-6F42C1?style=flat&logoColor=white)
+![Gherkin](https://img.shields.io/badge/Gherkin-23D96C?style=flat&logo=cucumber&logoColor=white)
+![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=flat&logo=cucumber&logoColor=white)
+
+### Automação Web e Mobile
+
+![Cypress](https://img.shields.io/badge/Cypress-2EAD73?style=flat&logo=cypress&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-45BA4B?style=flat&logo=playwright&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![Appium](https://img.shields.io/badge/Appium-662D91?style=flat&logo=appium&logoColor=white)
+![WebdriverIO](https://img.shields.io/badge/WebdriverIO-EA5906?style=flat&logo=webdriverio&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+
+### API, dados e performance
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Newman](https://img.shields.io/badge/Newman-FF6C37?style=flat&logo=postman&logoColor=white)
+![k6](https://img.shields.io/badge/k6-7D64FF?style=flat&logo=k6&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![DBeaver](https://img.shields.io/badge/DBeaver-897263?style=flat&logo=dbeaver&logoColor=white)
+
+### CI/CD e versionamento
+
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D4?style=flat&logo=azuredevops&logoColor=white)
+![Azure Pipelines](https://img.shields.io/badge/Azure%20Pipelines-2560E0?style=flat&logo=azurepipelines&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
 ---
 
 ## Finalidade deste portfólio
