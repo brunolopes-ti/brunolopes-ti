@@ -32,7 +32,10 @@ Este GitHub reúne projetos práticos desenvolvidos para demonstrar conhecimento
 ![Android](https://img.shields.io/badge/Android-Mobile%20Automation-brightgreen)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Automation-yellow)
 ![Node.js](https://img.shields.io/badge/Node.js-Runtime-green)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI/CD-blue)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-blue)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-CI%2FCD-blue)
+![Azure Pipelines](https://img.shields.io/badge/Azure%20Pipelines-Automation-blue)
+![Azure Boards](https://img.shields.io/badge/Azure%20Boards-Work%20Management-blue)
 ![Git](https://img.shields.io/badge/Git-Version%20Control-orange)
 ![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black)
 ![Scrum](https://img.shields.io/badge/Scrum-PSM%20I-blueviolet)
@@ -64,9 +67,14 @@ Os projetos contemplam:
 - Execução de testes via CLI;
 - Newman;
 - GitHub Actions;
+- Azure DevOps;
+- Azure Pipelines;
+- Azure Boards;
 - CI/CD;
+- Pipeline as Code com YAML;
+- Publicação de relatórios como artifacts;
 - Git e GitHub;
-- Evidências e documentação técnica.
+- Evidências, rastreabilidade e documentação técnica.
 
 ---
 
@@ -92,6 +100,15 @@ O projeto também foi evoluído com **Qase** para demonstrar organização de su
 - Reteste de falhas;
 - Registro de evidências;
 - Documentação técnica.
+
+### Resultados documentados
+
+- **15 casos de teste manuais**;
+- **13 aprovados**;
+- **2 reprovados**;
+- **2 bugs documentados**;
+- **86,6% de aprovação**;
+- Test Run de regressão com **6/6 testes aprovados**.
 
 Repositório:  
 [qa-lab-project](https://github.com/brunolopes-ti/qa-lab-project)
@@ -201,9 +218,11 @@ Repositório:
 
 ---
 
-## QA Playwright Lab - Playwright, Page Object Model e GitHub Actions
+## QA Playwright Lab - Playwright, POM, GitHub Actions e Azure DevOps
 
-Projeto de automação E2E utilizando Playwright e JavaScript no SauceDemo.
+Projeto de automação E2E utilizando **Playwright e JavaScript** no SauceDemo, cobrindo fluxos de autenticação, carrinho e checkout.
+
+A suíte utiliza **Page Object Model** e possui integração contínua implementada tanto com **GitHub Actions** quanto com **Azure Pipelines**.
 
 ### Principais práticas
 
@@ -218,10 +237,67 @@ Projeto de automação E2E utilizando Playwright e JavaScript no SauceDemo.
 - Separação entre páginas e testes;
 - Organização da suíte;
 - Execução via terminal;
+- Execução headless em CI;
 - GitHub Actions;
+- Azure DevOps;
+- Azure Pipelines;
+- Azure Boards;
 - CI/CD;
+- Pipeline as Code com YAML;
+- Publicação de relatório HTML como Pipeline Artifact;
+- Work Items;
+- Relação Parent/Child;
 - Evidências;
 - Documentação técnica.
+
+### Resultado da suíte
+
+```text
+6 testes E2E
+6 aprovados
+0 falhas
+```
+
+### CI/CD com Azure Pipelines
+
+O projeto possui o arquivo:
+
+```text
+azure-pipelines.yml
+```
+
+O pipeline é acionado após alterações na branch `main` e executa:
+
+```text
+Checkout do repositório
+        ↓
+Configuração do Node.js
+        ↓
+npm ci
+        ↓
+Instalação do Chromium
+        ↓
+Playwright em modo headless
+        ↓
+6 testes aprovados
+        ↓
+Relatório HTML
+        ↓
+Pipeline Artifact
+```
+
+### Azure Boards
+
+O Azure Boards foi utilizado para organizar e rastrear a implementação da integração.
+
+Foi criado um **Issue** principal com quatro Tasks relacionadas:
+
+1. Configurar Azure Pipeline para execução dos testes Playwright;
+2. Executar suíte Playwright em CI;
+3. Publicar relatório HTML como artifact;
+4. Validar execução e registrar evidências.
+
+Todos os itens foram concluídos utilizando rastreabilidade **Parent/Child**.
 
 Repositório:  
 [qa-playwright-lab](https://github.com/brunolopes-ti/qa-playwright-lab)
@@ -244,10 +320,17 @@ Projeto de automação Web E2E utilizando Selenium WebDriver, JavaScript, Node.j
 - Carrinho;
 - Checkout;
 - Localização de elementos;
+- Explicit waits;
 - Assertions;
 - Execução via terminal;
 - Evidências;
 - Documentação técnica.
+
+Resultado documentado:
+
+```text
+6 testes automatizados
+```
 
 Repositório:  
 [qa-selenium-lab](https://github.com/brunolopes-ti/qa-selenium-lab)
@@ -276,6 +359,13 @@ Projeto de automação Mobile Android utilizando Appium, WebdriverIO e JavaScrip
 - Versionamento;
 - Documentação técnica.
 
+Resultado documentado:
+
+```text
+3 cenários automatizados
+3 aprovados
+```
+
 Repositório:  
 [qa-mobile-appium-lab](https://github.com/brunolopes-ti/qa-mobile-appium-lab)
 
@@ -297,7 +387,8 @@ O banco simula um ambiente com usuários, produtos, pedidos e itens de pedido, p
 - DBeaver;
 - `SELECT`;
 - Filtros;
-- JOINs;
+- `INNER JOIN`;
+- `LEFT JOIN`;
 - Agregações;
 - Validação de estoque;
 - Validação de pedidos;
@@ -306,6 +397,8 @@ O banco simula um ambiente com usuários, produtos, pedidos e itens de pedido, p
 - Regras de negócio;
 - Evidências;
 - Documentação técnica.
+
+Foram documentadas **17 evidências de validação** no projeto.
 
 Repositório:  
 [qa-sql-validation](https://github.com/brunolopes-ti/qa-sql-validation)
@@ -364,6 +457,7 @@ Repositório:
 - Newman;
 - Autenticação;
 - Tokens;
+- Request chaining;
 - JSON;
 - JSON Schema Validation;
 - SQL;
@@ -396,6 +490,11 @@ Repositório:
 - Thresholds;
 - Checks;
 - GitHub Actions;
+- Azure DevOps;
+- Azure Pipelines;
+- Azure Boards;
+- Pipeline as Code com YAML;
+- Pipeline Artifacts;
 - CI/CD;
 - Execução via CLI;
 - npm.
@@ -404,6 +503,9 @@ Repositório:
 
 - Git;
 - GitHub;
+- Azure Boards;
+- Work Items;
+- Rastreabilidade Parent/Child;
 - Scrum;
 - Kanban;
 - Professional Scrum Master I;
@@ -425,9 +527,9 @@ Repositório:
 
 # Objetivo profissional
 
-Busco oportunidade como **QA ou Analista de Testes**, contribuindo com planejamento e execução de testes, análise de requisitos, identificação e documentação de falhas, gestão de testes, testes de API, validação de dados, automação Web e Mobile, testes de performance e melhoria contínua da qualidade de software.
+Busco oportunidade como **QA ou Analista de Testes**, contribuindo com planejamento e execução de testes, análise de requisitos, identificação e documentação de falhas, gestão de testes, testes de API, validação de dados, automação Web e Mobile, testes de performance e integração contínua.
 
-Meu foco é continuar evoluindo em **Quality Assurance, automação e engenharia de qualidade**, aprofundando conhecimentos em desenvolvimento de software, APIs, integração contínua, backend, cloud e boas práticas aplicadas ao ciclo de desenvolvimento.
+Meu foco é continuar evoluindo em **Quality Assurance, Automação de Testes e Engenharia de Qualidade**, aprofundando conhecimentos em desenvolvimento de software, APIs, CI/CD, backend, cloud e boas práticas aplicadas ao ciclo de desenvolvimento.
 
 ---
 
