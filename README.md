@@ -12,33 +12,15 @@ Este GitHub reúne projetos práticos desenvolvidos para demonstrar conhecimento
 
 ## Tecnologias e ferramentas
 
-<img src="https://img.shields.io/badge/QA-Quality%20Assurance-555555?style=flat&labelColor=0A66C2" height="28">
-<img src="https://img.shields.io/badge/Software%20Testing-Manual%20%26%20Automation-555555?style=flat&labelColor=2E8B57" height="28">
-<img src="https://img.shields.io/badge/Qase-Test%20Management-555555?style=flat&logo=qase&logoColor=white&labelColor=6F42C1" height="28">
-<img src="https://img.shields.io/badge/BDD-Behavior%20Driven%20Development-555555?style=flat&labelColor=8A2BE2" height="28">
-<img src="https://img.shields.io/badge/Gherkin-Feature%20Files-555555?style=flat&logo=cucumber&logoColor=white&labelColor=32CD32" height="28">
-<img src="https://img.shields.io/badge/Cucumber-Test%20Framework-555555?style=flat&logo=cucumber&logoColor=white&labelColor=23D96C" height="28">
-<img src="https://img.shields.io/badge/Postman-API%20Testing-555555?style=flat&logo=postman&logoColor=white&labelColor=FF6C37" height="28">
-<img src="https://img.shields.io/badge/Newman-API%20Automation-555555?style=flat&logo=postman&logoColor=white&labelColor=FF6C37" height="28">
-<img src="https://img.shields.io/badge/k6-Performance%20Testing-555555?style=flat&logo=k6&logoColor=white&labelColor=7D64FF" height="28">
-<img src="https://img.shields.io/badge/SQL-Data%20Validation-555555?style=flat&labelColor=336791" height="28">
-<img src="https://img.shields.io/badge/PostgreSQL-Database-555555?style=flat&logo=postgresql&logoColor=white&labelColor=4169E1" height="28">
-<img src="https://img.shields.io/badge/DBeaver-Database%20Tool-555555?style=flat&logo=dbeaver&logoColor=white&labelColor=8B7355" height="28">
-<img src="https://img.shields.io/badge/Cypress-E2E%20Testing-555555?style=flat&logo=cypress&logoColor=white&labelColor=17202C" height="28">
-<img src="https://img.shields.io/badge/Playwright-E2E%20Testing-555555?style=flat&logo=playwright&logoColor=white&labelColor=45BA4B" height="28">
-<img src="https://img.shields.io/badge/Selenium-WebDriver-555555?style=flat&logo=selenium&logoColor=white&labelColor=43B02A" height="28">
-<img src="https://img.shields.io/badge/Appium-Mobile%20Testing-555555?style=flat&logo=appium&logoColor=white&labelColor=662D91" height="28">
-<img src="https://img.shields.io/badge/WebdriverIO-Test%20Automation-555555?style=flat&logo=webdriverio&logoColor=white&labelColor=EA5906" height="28">
-<img src="https://img.shields.io/badge/Android-Mobile%20Automation-555555?style=flat&logo=android&logoColor=white&labelColor=3DDC84" height="28">
-<img src="https://img.shields.io/badge/JavaScript-Automation-555555?style=flat&logo=javascript&logoColor=black&labelColor=F7DF1E" height="28">
-<img src="https://img.shields.io/badge/Node.js-Runtime-555555?style=flat&logo=nodedotjs&logoColor=white&labelColor=339933" height="28">
-<img src="https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-555555?style=flat&logo=githubactions&logoColor=white&labelColor=2088FF" height="28">
-<img src="https://img.shields.io/badge/Azure%20DevOps-CI%2FCD-555555?style=flat&logo=azuredevops&logoColor=white&labelColor=0078D4" height="28">
-<img src="https://img.shields.io/badge/Azure%20Pipelines-Automation-555555?style=flat&logo=azurepipelines&logoColor=white&labelColor=2560E0" height="28">
-<img src="https://img.shields.io/badge/Azure%20Boards-Work%20Management-555555?style=flat&logo=azuredevops&logoColor=white&labelColor=0078D4" height="28">
-<img src="https://img.shields.io/badge/Git-Version%20Control-555555?style=flat&logo=git&logoColor=white&labelColor=F05032" height="28">
-<img src="https://img.shields.io/badge/GitHub-Portfolio-555555?style=flat&logo=github&logoColor=white&labelColor=181717" height="28">
-<img src="https://img.shields.io/badge/Scrum-PSM%20I-555555?style=flat&labelColor=6A5ACD" height="28">
+<p>
+<img src="https://img.shields.io/badge/QA-Quality%20Assurance-555555?style=flat&labelColor=0A66C2" height="28"> <img src="https://img.shields.io/badge/Software%20Testing-Manual%20%26%20Automation-555555?style=flat&labelColor=2E8B57" height="28"> <img src="https://img.shields.io/badge/Qase-Test%20Management-555555?style=flat&logo=qase&logoColor=white&labelColor=6F42C1" height="28"> <img src="https://img.shields.io/badge/BDD-Behavior%20Driven%20Development-555555?style=flat&labelColor=8A2BE2" height="28"> <img src="https://img.shields.io/badge/Gherkin-Feature%20Files-555555?style=flat&logo=cucumber&logoColor=white&labelColor=32CD32" height="28"> <img src="https://img.shields.io/badge/Cucumber-Test%20Framework-555555?style=flat&logo=cucumber&logoColor=white&labelColor=23D96C" height="28">
+<br><br>
+<img src="https://img.shields.io/badge/Postman-API%20Testing-555555?style=flat&logo=postman&logoColor=white&labelColor=FF6C37" height="28"> <img src="https://img.shields.io/badge/Newman-API%20Automation-555555?style=flat&logo=postman&logoColor=white&labelColor=FF6C37" height="28"> <img src="https://img.shields.io/badge/k6-Performance%20Testing-555555?style=flat&logo=k6&logoColor=white&labelColor=7D64FF" height="28"> <img src="https://img.shields.io/badge/SQL-Data%20Validation-555555?style=flat&labelColor=336791" height="28"> <img src="https://img.shields.io/badge/PostgreSQL-Database-555555?style=flat&logo=postgresql&logoColor=white&labelColor=4169E1" height="28"> <img src="https://img.shields.io/badge/DBeaver-Database%20Tool-555555?style=flat&logo=dbeaver&logoColor=white&labelColor=8B7355" height="28">
+<br><br>
+<img src="https://img.shields.io/badge/Cypress-E2E%20Testing-555555?style=flat&logo=cypress&logoColor=white&labelColor=17202C" height="28"> <img src="https://img.shields.io/badge/Playwright-E2E%20Testing-555555?style=flat&logo=playwright&logoColor=white&labelColor=45BA4B" height="28"> <img src="https://img.shields.io/badge/Selenium-WebDriver-555555?style=flat&logo=selenium&logoColor=white&labelColor=43B02A" height="28"> <img src="https://img.shields.io/badge/Appium-Mobile%20Testing-555555?style=flat&logo=appium&logoColor=white&labelColor=662D91" height="28"> <img src="https://img.shields.io/badge/WebdriverIO-Test%20Automation-555555?style=flat&logo=webdriverio&logoColor=white&labelColor=EA5906" height="28"> <img src="https://img.shields.io/badge/Android-Mobile%20Automation-555555?style=flat&logo=android&logoColor=white&labelColor=3DDC84" height="28">
+<br><br>
+<img src="https://img.shields.io/badge/JavaScript-Automation-555555?style=flat&logo=javascript&logoColor=black&labelColor=F7DF1E" height="28"> <img src="https://img.shields.io/badge/Node.js-Runtime-555555?style=flat&logo=nodedotjs&logoColor=white&labelColor=339933" height="28"> <img src="https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-555555?style=flat&logo=githubactions&logoColor=white&labelColor=2088FF" height="28"> <img src="https://img.shields.io/badge/Azure%20DevOps-CI%2FCD-555555?style=flat&logo=azuredevops&logoColor=white&labelColor=0078D4" height="28"> <img src="https://img.shields.io/badge/Azure%20Pipelines-Automation-555555?style=flat&logo=azurepipelines&logoColor=white&labelColor=2560E0" height="28"> <img src="https://img.shields.io/badge/Azure%20Boards-Work%20Management-555555?style=flat&logo=azuredevops&logoColor=white&labelColor=0078D4" height="28"> <img src="https://img.shields.io/badge/Git-Version%20Control-555555?style=flat&logo=git&logoColor=white&labelColor=F05032" height="28"> <img src="https://img.shields.io/badge/GitHub-Portfolio-555555?style=flat&logo=github&logoColor=white&labelColor=181717" height="28"> <img src="https://img.shields.io/badge/Scrum-PSM%20I-555555?style=flat&labelColor=6A5ACD" height="28">
+</p>
 
 ---
 
