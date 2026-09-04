@@ -12,8 +12,6 @@ Este GitHub reúne projetos práticos desenvolvidos para demonstrar conhecimento
 
 ## Tecnologias e ferramentas
 
-## Tecnologias e ferramentas
-
 ### Testes, gestão e BDD
 
 ![Qase](https://img.shields.io/badge/Qase-4F46E5?style=flat&logoColor=white)
