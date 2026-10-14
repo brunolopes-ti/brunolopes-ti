@@ -95,8 +95,6 @@ Os projetos contemplam:
 - Evolução de frontend com Angular / TypeScript e React;
 - Evolução de infraestrutura com Docker.
 
-A intenção é manter o portfólio sincronizado com o **currículo** e o **LinkedIn**, refletindo somente tecnologias já aplicadas ou identificadas claramente como **em andamento**.
-
 ---
 
 # Projetos de desenvolvimento em destaque
