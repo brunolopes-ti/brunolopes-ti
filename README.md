@@ -1,86 +1,189 @@
 # Bruno Ramos Lopes
 
-## QA | Analista de Testes | Testes Manuais | API Testing | SQL | Automação Web & Mobile | BDD | Performance Testing
+## Desenvolvimento de Software | QA | SDET
 
 Profissional com formação em **Gestão da Tecnologia da Informação**, certificação **Professional Scrum Master I (PSM I)** e pós-graduações em andamento em **Desenvolvimento e Testes de Software** e **Desenvolvimento Full Stack e Cloud Computing**.
 
-Tenho foco em **Quality Assurance e Testes de Software**, com prática em testes manuais, gestão de testes, testes de API REST, validação de dados com SQL, automação Web e Mobile, BDD, testes de performance, integração contínua e documentação técnica.
+Minha base mais consolidada está em **Quality Assurance, Automação de Testes e Engenharia de Qualidade**, e venho ampliando essa atuação para **Desenvolvimento de Software**, com experiência prática e documentada em projetos públicos envolvendo **Java / Spring Boot, C# / .NET, COBOL, APIs REST, PostgreSQL, autenticação, CI/CD e testes automatizados**.
 
-Este GitHub reúne projetos práticos desenvolvidos para demonstrar conhecimentos aplicados em diferentes camadas de qualidade de software, incluindo planejamento, execução, automação, evidências, rastreabilidade, versionamento e CI/CD.
+No front-end, estou evoluindo de forma direcionada em **Angular, TypeScript e React**, além de **HTML, CSS, responsividade e integração com APIs REST**. **Docker** também faz parte da evolução atual dos projetos.
+
+Este GitHub acompanha essa evolução de forma transparente: tecnologias já aplicadas aparecem como prática documentada; tecnologias ainda em desenvolvimento são identificadas como **em andamento**, sem atribuição de experiência que ainda não foi construída.
 
 ---
 
 ## Tecnologias e ferramentas
 
+### Desenvolvimento e backend — prática documentada
+
 <p>
-<img src="https://img.shields.io/badge/QA-Quality%20Assurance-555555?style=flat&labelColor=0A66C2" height="28"> <img src="https://img.shields.io/badge/Software%20Testing-Manual%20%26%20Automation-555555?style=flat&labelColor=2E8B57" height="28"> <img src="https://img.shields.io/badge/Qase-Test%20Management-555555?style=flat&logo=qase&logoColor=white&labelColor=6F42C1" height="28"> <img src="https://img.shields.io/badge/BDD-Behavior%20Driven%20Development-555555?style=flat&labelColor=8A2BE2" height="28"> <img src="https://img.shields.io/badge/Gherkin-Feature%20Files-555555?style=flat&logo=cucumber&logoColor=white&labelColor=32CD32" height="28"> <img src="https://img.shields.io/badge/Cucumber-Test%20Framework-555555?style=flat&logo=cucumber&logoColor=white&labelColor=23D96C" height="28">
-<img src="https://img.shields.io/badge/Postman-API%20Testing-555555?style=flat&logo=postman&logoColor=white&labelColor=FF6C37" height="28"> <img src="https://img.shields.io/badge/Newman-API%20Automation-555555?style=flat&logo=postman&logoColor=white&labelColor=FF6C37" height="28"> <img src="https://img.shields.io/badge/k6-Performance%20Testing-555555?style=flat&logo=k6&logoColor=white&labelColor=7D64FF" height="28"> <img src="https://img.shields.io/badge/SQL-Data%20Validation-555555?style=flat&labelColor=336791" height="28"> <img src="https://img.shields.io/badge/PostgreSQL-Database-555555?style=flat&logo=postgresql&logoColor=white&labelColor=4169E1" height="28"> <img src="https://img.shields.io/badge/DBeaver-Database%20Tool-555555?style=flat&logo=dbeaver&logoColor=white&labelColor=8B7355" height="28">
-<img src="https://img.shields.io/badge/Cypress-E2E%20Testing-555555?style=flat&logo=cypress&logoColor=white&labelColor=17202C" height="28"> <img src="https://img.shields.io/badge/Playwright-E2E%20Testing-555555?style=flat&logo=playwright&logoColor=white&labelColor=45BA4B" height="28"> <img src="https://img.shields.io/badge/Selenium-WebDriver-555555?style=flat&logo=selenium&logoColor=white&labelColor=43B02A" height="28"> <img src="https://img.shields.io/badge/Appium-Mobile%20Testing-555555?style=flat&logo=appium&logoColor=white&labelColor=662D91" height="28"> <img src="https://img.shields.io/badge/WebdriverIO-Test%20Automation-555555?style=flat&logo=webdriverio&logoColor=white&labelColor=EA5906" height="28"> <img src="https://img.shields.io/badge/Android-Mobile%20Automation-555555?style=flat&logo=android&logoColor=white&labelColor=3DDC84" height="28">
-<img src="https://img.shields.io/badge/JavaScript-Automation-555555?style=flat&logo=javascript&logoColor=black&labelColor=F7DF1E" height="28"> <img src="https://img.shields.io/badge/Node.js-Runtime-555555?style=flat&logo=nodedotjs&logoColor=white&labelColor=339933" height="28"> <img src="https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-555555?style=flat&logo=githubactions&logoColor=white&labelColor=2088FF" height="28"> <img src="https://img.shields.io/badge/Azure%20DevOps-CI%2FCD-555555?style=flat&logo=azuredevops&logoColor=white&labelColor=0078D4" height="28"> <img src="https://img.shields.io/badge/Azure%20Pipelines-Automation-555555?style=flat&logo=azurepipelines&logoColor=white&labelColor=2560E0" height="28"> <img src="https://img.shields.io/badge/Azure%20Boards-Work%20Management-555555?style=flat&logo=azuredevops&logoColor=white&labelColor=0078D4" height="28"> <img src="https://img.shields.io/badge/Git-Version%20Control-555555?style=flat&logo=git&logoColor=white&labelColor=F05032" height="28"> <img src="https://img.shields.io/badge/GitHub-Portfolio-555555?style=flat&logo=github&logoColor=white&labelColor=181717" height="28"> <img src="https://img.shields.io/badge/Scrum-PSM%20I-555555?style=flat&labelColor=6A5ACD" height="28">
+<img src="https://img.shields.io/badge/Java-21-555555?style=flat&logo=openjdk&logoColor=white&labelColor=ED8B00" height="28">
+<img src="https://img.shields.io/badge/Spring%20Boot-API%20REST-555555?style=flat&logo=springboot&logoColor=white&labelColor=6DB33F" height="28">
+<img src="https://img.shields.io/badge/C%23-.NET%2010-555555?style=flat&logo=dotnet&logoColor=white&labelColor=512BD4" height="28">
+<img src="https://img.shields.io/badge/ASP.NET%20Core-Web%20API-555555?style=flat&logo=dotnet&logoColor=white&labelColor=512BD4" height="28">
+<img src="https://img.shields.io/badge/COBOL-GnuCOBOL-555555?style=flat&labelColor=005CA5" height="28">
+<img src="https://img.shields.io/badge/PostgreSQL-Database-555555?style=flat&logo=postgresql&logoColor=white&labelColor=4169E1" height="28">
+<img src="https://img.shields.io/badge/SQL-Data%20Validation-555555?style=flat&labelColor=336791" height="28">
+<img src="https://img.shields.io/badge/Flyway-Migrations-555555?style=flat&logo=flyway&logoColor=white&labelColor=CC0200" height="28">
+<img src="https://img.shields.io/badge/Entity%20Framework%20Core-ORM-555555?style=flat&logo=dotnet&logoColor=white&labelColor=512BD4" height="28">
+<img src="https://img.shields.io/badge/JWT-Authentication-555555?style=flat&logo=jsonwebtokens&logoColor=white&labelColor=000000" height="28">
 </p>
+
+### QA, SDET e automação — prática documentada
+
+<p>
+<img src="https://img.shields.io/badge/QA-Quality%20Assurance-555555?style=flat&labelColor=0A66C2" height="28">
+<img src="https://img.shields.io/badge/Qase-Test%20Management-555555?style=flat&logo=qase&logoColor=white&labelColor=6F42C1" height="28">
+<img src="https://img.shields.io/badge/Postman-API%20Testing-555555?style=flat&logo=postman&logoColor=white&labelColor=FF6C37" height="28">
+<img src="https://img.shields.io/badge/Newman-API%20Automation-555555?style=flat&logo=postman&logoColor=white&labelColor=FF6C37" height="28">
+<img src="https://img.shields.io/badge/k6-Performance%20Testing-555555?style=flat&logo=k6&logoColor=white&labelColor=7D64FF" height="28">
+<img src="https://img.shields.io/badge/Cypress-E2E%20Testing-555555?style=flat&logo=cypress&logoColor=white&labelColor=17202C" height="28">
+<img src="https://img.shields.io/badge/Playwright-E2E%20Testing-555555?style=flat&logo=playwright&logoColor=white&labelColor=45BA4B" height="28">
+<img src="https://img.shields.io/badge/Selenium-WebDriver-555555?style=flat&logo=selenium&logoColor=white&labelColor=43B02A" height="28">
+<img src="https://img.shields.io/badge/Appium-Mobile%20Testing-555555?style=flat&logo=appium&logoColor=white&labelColor=662D91" height="28">
+<img src="https://img.shields.io/badge/WebdriverIO-Test%20Automation-555555?style=flat&logo=webdriverio&logoColor=white&labelColor=EA5906" height="28">
+<img src="https://img.shields.io/badge/BDD-Gherkin%20%2F%20Cucumber-555555?style=flat&logo=cucumber&logoColor=white&labelColor=23D96C" height="28">
+<img src="https://img.shields.io/badge/JavaScript-Automation-555555?style=flat&logo=javascript&logoColor=black&labelColor=F7DF1E" height="28">
+<img src="https://img.shields.io/badge/Node.js-Runtime-555555?style=flat&logo=nodedotjs&logoColor=white&labelColor=339933" height="28">
+</p>
+
+### CI/CD, versionamento e processos — prática documentada
+
+<p>
+<img src="https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-555555?style=flat&logo=githubactions&logoColor=white&labelColor=2088FF" height="28">
+<img src="https://img.shields.io/badge/Azure%20DevOps-Pipelines%20%26%20Boards-555555?style=flat&logo=azuredevops&logoColor=white&labelColor=0078D4" height="28">
+<img src="https://img.shields.io/badge/Git-Version%20Control-555555?style=flat&logo=git&logoColor=white&labelColor=F05032" height="28">
+<img src="https://img.shields.io/badge/GitHub-Portfolio-555555?style=flat&logo=github&logoColor=white&labelColor=181717" height="28">
+<img src="https://img.shields.io/badge/Scrum-PSM%20I-555555?style=flat&labelColor=6A5ACD" height="28">
+</p>
+
+### Em andamento / evolução atual
+
+| Tecnologia | Situação atual |
+|---|---|
+| **Angular** | Em andamento — estudo direcionado e frontend previsto no projeto de conciliação |
+| **TypeScript** | Em andamento — base para Angular e React |
+| **Angular CLI** | Em andamento |
+| **Jasmine / Karma** | Em andamento — testes de frontend Angular |
+| **React** | Em andamento — frontend previsto no projeto Controle de Materiais |
+| **Vite** | Em andamento — stack prevista com React |
+| **Docker** | Em andamento — conteinerização prevista nos projetos full stack |
+| **Bootstrap** | Em andamento — estudo complementar de frontend |
+| **HTML / CSS responsivo** | Em evolução contínua, com foco em interfaces web e mobile |
 
 ---
 
 ## Finalidade deste portfólio
 
-Este GitHub tem como finalidade demonstrar, de forma prática, conhecimentos aplicados em **Quality Assurance, Testes de Software e Automação**.
+Este GitHub demonstra, por meio de projetos públicos e documentados, a evolução em três frentes complementares: **Desenvolvimento de Software, Quality Assurance e SDET**.
 
 Os projetos contemplam:
 
+- Desenvolvimento de APIs REST com Java / Spring Boot e C# / ASP.NET Core;
+- Integração entre COBOL, Java e PostgreSQL;
+- Regras de negócio, persistência, migrations e validações de dados;
+- Autenticação, hash de senha e JWT;
+- Testes unitários, integração, API, Web, Mobile e performance;
 - Testes manuais funcionais, regressivos e exploratórios;
-- Planejamento, criação e execução de casos de teste;
 - Gestão de testes com Qase;
-- Registro, acompanhamento e reteste de defeitos;
-- Testes de API REST;
-- Autenticação e uso de tokens;
-- Encadeamento entre requisições;
-- JSON Schema Validation;
-- Testes positivos e negativos;
-- Validação de dados com SQL;
-- Automação Web;
-- Automação Mobile Android;
+- Automação E2E com Cypress, Playwright e Selenium;
+- Automação Mobile com Appium e WebdriverIO;
 - BDD com Gherkin e Cucumber;
-- Page Object Model;
 - Testes de performance com k6;
-- Smoke, Load e Stress Testing;
-- Execução de testes via CLI;
-- Newman;
-- GitHub Actions;
-- Azure DevOps;
-- Azure Pipelines;
-- Azure Boards;
-- CI/CD;
-- Pipeline as Code com YAML;
-- Publicação de relatórios como artifacts;
-- Git e GitHub;
-- Evidências, rastreabilidade e documentação técnica.
+- CI/CD com GitHub Actions e Azure Pipelines;
+- Git, GitHub, Scrum, documentação técnica e rastreabilidade;
+- Evolução de frontend com Angular / TypeScript e React;
+- Evolução de infraestrutura com Docker.
+
+A intenção é manter o portfólio sincronizado com o **currículo** e o **LinkedIn**, refletindo somente tecnologias já aplicadas ou identificadas claramente como **em andamento**.
 
 ---
 
-# Projetos em destaque
+# Projetos de desenvolvimento em destaque
+
+## Conciliação de Pagamentos — COBOL + Java / Spring Boot + PostgreSQL
+
+Projeto de conciliação de pagamentos desenvolvido de forma incremental, com motor de processamento em **COBOL**, backend em **Java / Spring Boot** e persistência em **PostgreSQL**.
+
+### Implementado
+
+- Motor de conciliação em GnuCOBOL;
+- Validação de arquivos e valores monetários;
+- Relatório TXT e resultado estruturado TSV;
+- Integração COBOL ↔ Java;
+- API REST em Java 21 / Spring Boot;
+- PostgreSQL com migrations Flyway;
+- Histórico, paginação, filtros e relatórios;
+- Cadastro seguro de usuários;
+- Hash de senha com BCrypt;
+- Testes automatizados e integração com PostgreSQL real;
+- CI com GitHub Actions.
+
+### Em andamento
+
+- Login e autenticação;
+- JWT e proteção dos endpoints;
+- Isolamento dos dados por usuário;
+- Frontend **Angular + TypeScript**;
+- Responsividade;
+- Docker;
+- Integração E2E e deploy.
+
+Repositórios:  
+[cobol-conciliacao](https://github.com/brunolopes-ti/cobol-conciliacao)  
+[conciliacao-api-java](https://github.com/brunolopes-ti/conciliacao-api-java)
+
+---
+
+## Controle de Materiais — .NET + PostgreSQL + React
+
+Projeto full stack para controle de materiais, estoque e movimentações entre unidades, desenvolvido com **C# / .NET 10, ASP.NET Core Web API, Entity Framework Core e PostgreSQL**.
+
+### Implementado
+
+- Arquitetura em camadas;
+- Entidades e regras de negócio;
+- CRUD de unidades e materiais;
+- Entradas e saídas de estoque;
+- Consulta de saldo e resumo;
+- Histórico paginado e filtros;
+- Entity Framework Core e migrations;
+- PostgreSQL;
+- Cadastro e autenticação de usuários;
+- Hash seguro de senha;
+- JWT Bearer;
+- Endpoints protegidos;
+- Testes com xUnit.
+
+### Em andamento
+
+- Frontend **React + TypeScript + Vite**;
+- Integração frontend ↔ API;
+- Testes E2E;
+- Docker;
+- Consolidação e deploy.
+
+Repositório:  
+[controle-materiais-dotnet-react](https://github.com/brunolopes-ti/controle-materiais-dotnet-react)
+
+---
+
+# Projetos de QA e SDET em destaque
 
 ## QA Lab Project - Testes Manuais e Gestão de Testes com Qase
 
 Projeto de testes manuais funcionais utilizando o SauceDemo, cobrindo fluxos de autenticação, carrinho e checkout.
 
-O projeto também foi evoluído com **Qase** para demonstrar organização de suítes, execução de ciclos de teste, registro de defeitos e retestes.
-
-### Principais práticas
+Principais práticas:
 
 - Planejamento de cenários;
 - Criação e execução de casos de teste;
-- Testes funcionais;
-- Testes positivos e negativos;
-- Testes regressivos;
+- Testes funcionais, regressivos, positivos e negativos;
 - Gestão de testes com Qase;
-- Organização de suítes;
-- Execução de Test Runs;
-- Registro de defeitos;
-- Reteste de falhas;
-- Registro de evidências;
-- Documentação técnica.
+- Registro e reteste de defeitos;
+- Evidências e documentação técnica.
 
-### Resultados documentados
+Resultados documentados:
 
 - **15 casos de teste manuais**;
 - **13 aprovados**;
@@ -96,34 +199,20 @@ Repositório:
 
 ## QA API Tests - Postman, Newman, Restful Booker e GitHub Actions
 
-Projeto de testes automatizados de API REST desenvolvido em duas etapas.
+Projeto de testes automatizados de API REST utilizando **JSONPlaceholder** e **Restful Booker**.
 
-A primeira suíte utiliza **JSONPlaceholder** para trabalhar fundamentos de testes de API.
+Principais práticas:
 
-A segunda utiliza **Restful Booker** para implementar um fluxo mais avançado com autenticação, Environment, token, CRUD, variáveis dinâmicas, validação de schema e testes negativos.
-
-### Principais práticas
-
-- Métodos `GET`, `POST`, `PUT`, `PATCH` e `DELETE`;
-- Health Check;
-- Status codes;
-- Headers e payloads JSON;
-- Postman Environments;
-- Autenticação;
-- Geração e armazenamento de token;
-- Armazenamento dinâmico de IDs;
-- Encadeamento de requisições;
+- Métodos GET, POST, PUT, PATCH e DELETE;
+- Autenticação e token;
 - CRUD completo;
+- Variáveis dinâmicas e request chaining;
 - JSON Schema Validation;
-- Testes positivos;
-- Testes negativos;
+- Testes positivos e negativos;
 - Scripts JavaScript;
-- Assertions;
 - Newman;
-- npm scripts;
 - GitHub Actions;
-- CI/CD;
-- Evidências e documentação técnica.
+- CI/CD.
 
 A suíte avançada possui **11 requisições e 36 assertions**, executadas sem falhas na execução registrada.
 
@@ -134,31 +223,25 @@ Repositório:
 
 ## QA Performance Testing - k6
 
-Projeto de testes de performance utilizando **k6 e JavaScript**, desenvolvido para praticar diferentes tipos de carga sobre uma API HTTP.
+Projeto de testes de performance utilizando **k6 e JavaScript**.
 
-### Cenários implementados
+Cenários:
 
 - Smoke Test;
 - Load Test;
 - Stress Test.
 
-### Principais práticas
+Práticas:
 
-- Criação de scripts com k6;
 - Virtual Users;
 - Stages;
 - Thresholds;
 - Checks;
-- Validação de status HTTP;
 - Tempo de resposta;
-- Percentil `p95`;
+- Percentil p95;
 - Taxa de falhas;
 - Execução via terminal;
-- Análise dos resultados;
-- Evidências;
-- Documentação técnica.
-
-O objetivo do projeto é demonstrar fundamentos de testes de performance em ambiente educacional, sem representar benchmark de capacidade produtiva.
+- Evidências e análise de resultados.
 
 Repositório:  
 [qa-k6-performance](https://github.com/brunolopes-ti/qa-k6-performance)
@@ -167,11 +250,9 @@ Repositório:
 
 ## QA Cypress Lab - Cypress, BDD, Gherkin e Cucumber
 
-Projeto de automação E2E utilizando Cypress e JavaScript no SauceDemo, cobrindo login, carrinho e checkout.
+Projeto de automação E2E utilizando Cypress e JavaScript no SauceDemo.
 
-O projeto possui testes Cypress tradicionais e uma camada adicional utilizando **BDD, Gherkin e Cucumber**.
-
-### Principais práticas
+Principais práticas:
 
 - Cypress;
 - JavaScript;
@@ -181,16 +262,10 @@ O projeto possui testes Cypress tradicionais e uma camada adicional utilizando *
 - Cucumber;
 - Arquivos `.feature`;
 - Step Definitions;
-- Cenários com `Dado`, `Quando`, `Então` e `E`;
-- Testes positivos e negativos;
-- Fluxos de autenticação;
-- Carrinho;
-- Checkout;
-- Execução via terminal;
-- Evidências;
-- Documentação técnica.
+- Login, carrinho e checkout;
+- Testes positivos e negativos.
 
-Foram executados **13 testes com sucesso**, incluindo **6 cenários BDD**.
+Resultado: **13 testes executados com sucesso**, incluindo **6 cenários BDD**.
 
 Repositório:  
 [qa-cypress-lab](https://github.com/brunolopes-ti/qa-cypress-lab)
@@ -199,84 +274,28 @@ Repositório:
 
 ## QA Playwright Lab - Playwright, POM, GitHub Actions e Azure DevOps
 
-Projeto de automação E2E utilizando **Playwright e JavaScript** no SauceDemo, cobrindo fluxos de autenticação, carrinho e checkout.
+Projeto de automação E2E utilizando **Playwright e JavaScript**, com Page Object Model e CI/CD.
 
-A suíte utiliza **Page Object Model** e possui integração contínua implementada tanto com **GitHub Actions** quanto com **Azure Pipelines**.
-
-### Principais práticas
+Principais práticas:
 
 - Playwright;
-- JavaScript;
-- Automação E2E;
-- Cenários positivos e negativos;
-- Login;
-- Carrinho;
-- Checkout;
 - Page Object Model;
-- Separação entre páginas e testes;
-- Organização da suíte;
-- Execução via terminal;
-- Execução headless em CI;
+- Login, carrinho e checkout;
+- Execução headless;
 - GitHub Actions;
-- Azure DevOps;
 - Azure Pipelines;
 - Azure Boards;
-- CI/CD;
-- Pipeline as Code com YAML;
-- Publicação de relatório HTML como Pipeline Artifact;
-- Work Items;
-- Relação Parent/Child;
-- Evidências;
-- Documentação técnica.
+- Pipeline as Code;
+- Relatório HTML como artifact;
+- Rastreabilidade Parent/Child.
 
-### Resultado da suíte
+Resultado:
 
 ```text
 6 testes E2E
 6 aprovados
 0 falhas
 ```
-
-### CI/CD com Azure Pipelines
-
-O projeto possui o arquivo:
-
-```text
-azure-pipelines.yml
-```
-
-O pipeline é acionado após alterações na branch `main` e executa:
-
-```text
-Checkout do repositório
-        ↓
-Configuração do Node.js
-        ↓
-npm ci
-        ↓
-Instalação do Chromium
-        ↓
-Playwright em modo headless
-        ↓
-6 testes aprovados
-        ↓
-Relatório HTML
-        ↓
-Pipeline Artifact
-```
-
-### Azure Boards
-
-O Azure Boards foi utilizado para organizar e rastrear a implementação da integração.
-
-Foi criado um **Issue** principal com quatro Tasks relacionadas:
-
-1. Configurar Azure Pipeline para execução dos testes Playwright;
-2. Executar suíte Playwright em CI;
-3. Publicar relatório HTML como artifact;
-4. Validar execução e registrar evidências.
-
-Todos os itens foram concluídos utilizando rastreabilidade **Parent/Child**.
 
 Repositório:  
 [qa-playwright-lab](https://github.com/brunolopes-ti/qa-playwright-lab)
@@ -287,29 +306,17 @@ Repositório:
 
 Projeto de automação Web E2E utilizando Selenium WebDriver, JavaScript, Node.js e Mocha.
 
-### Principais práticas
+Principais práticas:
 
 - Selenium WebDriver;
-- JavaScript;
-- Node.js;
-- Mocha;
-- Login válido;
-- Login inválido;
-- Usuário bloqueado;
-- Carrinho;
-- Checkout;
 - Localização de elementos;
 - Explicit waits;
 - Assertions;
+- Login, carrinho e checkout;
 - Execução via terminal;
-- Evidências;
-- Documentação técnica.
+- Evidências.
 
-Resultado documentado:
-
-```text
-6 testes automatizados
-```
+Resultado documentado: **6 testes automatizados**.
 
 Repositório:  
 [qa-selenium-lab](https://github.com/brunolopes-ti/qa-selenium-lab)
@@ -318,27 +325,20 @@ Repositório:
 
 ## QA Mobile Appium Lab - Appium e WebdriverIO
 
-Projeto de automação Mobile Android utilizando Appium, WebdriverIO e JavaScript, executado em dispositivo Android real.
+Projeto de automação Mobile Android utilizando Appium, WebdriverIO e JavaScript em dispositivo Android real.
 
-### Principais práticas
+Principais práticas:
 
 - Appium;
 - WebdriverIO;
-- JavaScript;
-- Android;
 - UiAutomator2;
 - ADB;
 - Automação em dispositivo físico;
-- Validação de abertura do aplicativo;
-- Validação de carregamento de tela;
 - Gestos e rolagem;
 - Page Object Model;
-- Captura de screenshots;
-- Evidências;
-- Versionamento;
-- Documentação técnica.
+- Screenshots e evidências.
 
-Resultado documentado:
+Resultado:
 
 ```text
 3 cenários automatizados
@@ -354,30 +354,19 @@ Repositório:
 
 Projeto de validação de dados utilizando SQL, PostgreSQL e DBeaver.
 
-O banco simula um ambiente com usuários, produtos, pedidos e itens de pedido, permitindo validar integridade de dados e regras de negócio.
-
-### Principais práticas
+Principais práticas:
 
 - Modelagem relacional;
-- Criação de tabelas;
-- Massa de dados;
-- SQL;
-- PostgreSQL;
-- DBeaver;
-- `SELECT`;
-- Filtros;
-- `INNER JOIN`;
-- `LEFT JOIN`;
-- Agregações;
-- Validação de estoque;
-- Validação de pedidos;
-- Validação de valores;
-- Consistência entre tabelas;
-- Regras de negócio;
-- Evidências;
-- Documentação técnica.
+- SELECT;
+- filtros;
+- INNER JOIN;
+- LEFT JOIN;
+- agregações;
+- validação de estoque, pedidos e valores;
+- consistência entre tabelas;
+- regras de negócio.
 
-Foram documentadas **17 evidências de validação** no projeto.
+Foram documentadas **17 evidências de validação**.
 
 Repositório:  
 [qa-sql-validation](https://github.com/brunolopes-ti/qa-sql-validation)
@@ -388,24 +377,19 @@ Repositório:
 
 ## BI Operational Dashboard - Excel e Power BI
 
-Projeto complementar de Business Intelligence para análise operacional de demandas, contratos, fornecedores, pagamentos, SLA e indicadores.
+Projeto de Business Intelligence para análise operacional de demandas, contratos, fornecedores, pagamentos, SLA e indicadores.
 
-### Principais práticas
+Principais práticas:
 
-- Organização e tratamento de dados;
-- Bases simuladas em CSV;
 - Excel;
 - Power BI;
 - Power Query;
-- Relacionamento entre tabelas;
 - DAX;
 - KPIs;
-- Indicadores operacionais;
-- Análise de dados;
-- Insights;
-- Dicionário de dados;
-- Evidências;
-- Documentação técnica.
+- relacionamento entre tabelas;
+- análise de dados;
+- insights;
+- dicionário de dados.
 
 Repositório:  
 [bi-operational-dashboard](https://github.com/brunolopes-ti/bi-operational-dashboard)
@@ -414,60 +398,69 @@ Repositório:
 
 # Competências demonstradas nos projetos
 
-### Testes e qualidade
+### Desenvolvimento e backend
+
+- Java 21;
+- Spring Boot;
+- APIs REST;
+- JDBC / JdbcTemplate;
+- C#;
+- .NET 10;
+- ASP.NET Core Web API;
+- Entity Framework Core;
+- COBOL / GnuCOBOL;
+- PostgreSQL;
+- SQL;
+- Flyway;
+- migrations;
+- autenticação;
+- BCrypt / hash de senha;
+- JWT;
+- paginação;
+- tratamento de erros;
+- regras de negócio;
+- integração entre sistemas.
+
+### Frontend — em andamento
+
+- Angular;
+- TypeScript;
+- Angular CLI;
+- HTML;
+- CSS;
+- responsividade;
+- integração com APIs REST;
+- React;
+- Vite;
+- Bootstrap;
+- Jasmine / Karma.
+
+### QA, SDET e automação
 
 - Quality Assurance;
-- Testes de Software;
-- Testes manuais;
-- Testes funcionais;
-- Testes regressivos;
-- Testes exploratórios;
-- Casos de teste;
-- Defeitos;
-- Evidências;
-- Retestes;
+- testes manuais, funcionais, regressivos e exploratórios;
+- casos de teste e gestão de defeitos;
 - Qase;
-- Testes positivos e negativos.
-
-### API e dados
-
-- API REST;
-- Postman;
-- Newman;
-- Autenticação;
-- Tokens;
-- Request chaining;
-- JSON;
-- JSON Schema Validation;
-- SQL;
-- PostgreSQL;
-- DBeaver;
-- Validação de dados;
-- Regras de negócio.
-
-### Automação
-
+- Postman e Newman;
 - Cypress;
 - Playwright;
 - Selenium WebDriver;
 - Appium;
 - WebdriverIO;
-- JavaScript;
-- Node.js;
-- Mocha;
 - Page Object Model;
 - BDD;
 - Gherkin;
-- Cucumber.
+- Cucumber;
+- testes positivos e negativos;
+- validação de dados com SQL;
+- testes de performance com k6;
+- xUnit;
+- evidências, rastreabilidade e documentação técnica.
 
-### Performance e CI/CD
+### CI/CD, infraestrutura e processos
 
-- k6;
-- Smoke Testing;
-- Load Testing;
-- Stress Testing;
-- Thresholds;
-- Checks;
+- Git;
+- GitHub;
 - GitHub Actions;
 - Azure DevOps;
 - Azure Pipelines;
@@ -475,21 +468,10 @@ Repositório:
 - Pipeline as Code com YAML;
 - Pipeline Artifacts;
 - CI/CD;
-- Execução via CLI;
-- npm.
-
-### Versionamento e processos
-
-- Git;
-- GitHub;
-- Azure Boards;
-- Work Items;
-- Rastreabilidade Parent/Child;
 - Scrum;
 - Kanban;
 - Professional Scrum Master I;
-- Documentação técnica;
-- Rastreabilidade.
+- Docker — em andamento.
 
 ---
 
@@ -500,15 +482,18 @@ Repositório:
 - **Pós-graduação em Desenvolvimento Full Stack e Cloud Computing** — em andamento;
 - **Professional Scrum Master I (PSM I)** — Scrum.org;
 - **Testes de Software na Prática: Qualidade, Técnicas e Ferramentas** — Gran Centro Universitário;
-- **Fundamentos da LGPD** — ENAP.
+- **Fundamentos da LGPD** — ENAP;
+- **Inglês:** Básico.
 
 ---
 
 # Objetivo profissional
 
-Busco oportunidade como **QA ou Analista de Testes**, contribuindo com planejamento e execução de testes, análise de requisitos, identificação e documentação de falhas, gestão de testes, testes de API, validação de dados, automação Web e Mobile, testes de performance e integração contínua.
+Busco oportunidades de nível inicial em **Desenvolvimento de Software, QA / Analista de Testes ou SDET**, aproveitando a base já construída em qualidade e automação e ampliando a atuação em desenvolvimento full stack.
 
-Meu foco é continuar evoluindo em **Quality Assurance, Automação de Testes e Engenharia de Qualidade**, aprofundando conhecimentos em desenvolvimento de software, APIs, CI/CD, backend, cloud e boas práticas aplicadas ao ciclo de desenvolvimento.
+Meu diferencial é combinar visão de **desenvolvimento + qualidade**: compreender regras de negócio, APIs, banco de dados, automação, testes, CI/CD e versionamento, mantendo atenção à confiabilidade das entregas.
+
+No desenvolvimento, sigo aprofundando **Java / Spring Boot, C# / .NET, Angular / TypeScript, React, PostgreSQL, Docker e integração entre frontend e backend**. No eixo de qualidade, continuo evoluindo em **automação Web e Mobile, API Testing, performance e engenharia de qualidade**.
 
 ---
 
